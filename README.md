@@ -2,12 +2,7 @@
 Sobre o Projeto
 Um projeto desenvolvido para o desafio do curso Praticando Lógica de Programação, criando um sistema de sorteio de amigo secreto utilizando JavaScript.
 
-Este projeto é uma aplicação web que permite organizar um sorteio de amigo secreto de forma simples e divertida. Os usuários podem adicionar participantes e realizar o sorteio de forma aleatória.
-
-Meu Projeto Amigo Secreto
-Acesse a página web do projeto clicando no link: Visualizar o projeto
-
-Capa amigo secreto
+Os usuários podem adicionar participantes e realizar o sorteio de forma aleatória.
 
  Como jogar 
 Ao entrar na pagina 
